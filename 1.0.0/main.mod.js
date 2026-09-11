@@ -195,4 +195,4 @@ class PolyTrackTAS extends PolyMod {
     }
 }
 
-export default new PolyTrackTAS();
+export let polyMod = new PolyTrackTAS();
